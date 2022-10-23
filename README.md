@@ -1,4 +1,4 @@
-Copyright (C) 2021 The LineageOS Project
+Copyright (C) 2022 The LineageOS Project
 
 Device configuration for Xiaomi 11 Lite 5G NE
 =========================================

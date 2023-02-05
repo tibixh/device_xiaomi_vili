@@ -16,11 +16,6 @@ TARGET_BOOTLOADER_BOARD_NAME := lisa
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8350
 TARGET_KERNEL_CONFIG := vendor/lahaina-qgki_defconfig vendor/xiaomi_QGKI.config vendor/lisa_QGKI.config
 
-BOARD_RAMDISK_USE_LZ4 := true
-KERNEL_LD :=
-TARGET_KERNEL_ADDITIONAL_FLAGS :=
-TARGET_KERNEL_CLANG_COMPILE := true
-
 # Display
 TARGET_SCREEN_DENSITY := 440
 
